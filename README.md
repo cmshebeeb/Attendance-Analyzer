@@ -1,7 +1,5 @@
 # Attendance Analyzer
 
-![GitHub](https://img.shields.io/github/license/cmshebeeb/attendance-analyzer) ![GitHub repo size](https://img.shields.io/github/repo-size/cmshebeeb/attendance-analyzer)
-
 Attendance Analyzer is a Python hobby project aimed at helping KTU (Kerala Technological University) students monitor their attendance and ensure compliance with the required 75% threshold.
 
 ## Overview
