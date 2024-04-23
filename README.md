@@ -60,7 +60,7 @@ Special thanks to KTU for inspiring this project and providing guidelines on att
 This project is developed for educational and hobby purposes only. It should not be used for official attendance calculations without proper validation and verification.
 
 ## Author
-- [Your Name](https://github.com/cmshebeeb)
+- [Muhammed Shebeeb](https://github.com/cmshebeeb)
 
 ## Sample Input (Python Script)
 - Total number of classes: 20
