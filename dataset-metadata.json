@@ -1,0 +1,41 @@
+{
+  "id": "ahmedaliraja/attendance-sheet-data-set-for-university",
+  "id_no": 3287417,
+  "datasetSlugNullable": "attendance-sheet-data-set-for-university",
+  "ownerUserNullable": "ahmedaliraja",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Attendance sheet Data set for University",
+  "subtitleNullable": "A small dataset for beginners",
+  "descriptionNullable": "Context:\nThe University Attendance Sheet Dataset is a comprehensive collection of attendance records from various university courses. This dataset is valuable for analyzing student attendance patterns, studying the impact of attendance on academic performance, and exploring factors influencing student engagement. It provides a rich resource for researchers, educators, and students interested in understanding attendance dynamics within a university setting.\n\nContent:\nThe dataset includes the following information:\n\nStudent ID: A unique identifier for each student.\nCourse ID: A unique identifier for each course.\nDate: The date of the attendance record.\nAttendance Status: Indicates whether the student was present, absent, or had an excused absence on a particular date.\nThe dataset contains records from multiple academic semesters, covering a wide range of courses across different disciplines. By examining this dataset, researchers can investigate attendance trends across different courses, identify patterns related to student performance, and explore correlations between attendance and other academic variables.\n\nAcknowledgements:\nWe would like to express our gratitude to the university administration, faculty members, and students who contributed to the collection and organization of this dataset. Their cooperation and support have made this dataset possible, enabling valuable insights into student attendance dynamics.\n\nInspiration:\nThe inspiration behind creating this dataset stems from the recognition of the significant role attendance plays in a student's academic journey. By making this dataset available on Kaggle, we hope to facilitate research and analysis on attendance patterns, identify interventions to improve student engagement, and provide educators with valuable insights to enhance their teaching strategies. We also encourage collaboration and exploration of the dataset to uncover new findings and generate knowledge that can benefit the education community as a whole.\n\nBy leveraging the University Attendance Sheet Dataset, we aspire to contribute to the ongoing efforts to improve student success and foster an environment that promotes active participation and learning within higher education institutions.",
+  "datasetId": 3287417,
+  "datasetSlug": "attendance-sheet-data-set-for-university",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedaliraja",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3803,
+  "totalVotes": 18,
+  "totalDownloads": 697,
+  "title": "Attendance sheet Data set for University",
+  "hasTitle": true,
+  "subtitle": "A small dataset for beginners",
+  "hasSubtitle": true,
+  "description": "Context:\nThe University Attendance Sheet Dataset is a comprehensive collection of attendance records from various university courses. This dataset is valuable for analyzing student attendance patterns, studying the impact of attendance on academic performance, and exploring factors influencing student engagement. It provides a rich resource for researchers, educators, and students interested in understanding attendance dynamics within a university setting.\n\nContent:\nThe dataset includes the following information:\n\nStudent ID: A unique identifier for each student.\nCourse ID: A unique identifier for each course.\nDate: The date of the attendance record.\nAttendance Status: Indicates whether the student was present, absent, or had an excused absence on a particular date.\nThe dataset contains records from multiple academic semesters, covering a wide range of courses across different disciplines. By examining this dataset, researchers can investigate attendance trends across different courses, identify patterns related to student performance, and explore correlations between attendance and other academic variables.\n\nAcknowledgements:\nWe would like to express our gratitude to the university administration, faculty members, and students who contributed to the collection and organization of this dataset. Their cooperation and support have made this dataset possible, enabling valuable insights into student attendance dynamics.\n\nInspiration:\nThe inspiration behind creating this dataset stems from the recognition of the significant role attendance plays in a student's academic journey. By making this dataset available on Kaggle, we hope to facilitate research and analysis on attendance patterns, identify interventions to improve student engagement, and provide educators with valuable insights to enhance their teaching strategies. We also encourage collaboration and exploration of the dataset to uncover new findings and generate knowledge that can benefit the education community as a whole.\n\nBy leveraging the University Attendance Sheet Dataset, we aspire to contribute to the ongoing efforts to improve student success and foster an environment that promotes active participation and learning within higher education institutions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "beginner",
+    "other"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
