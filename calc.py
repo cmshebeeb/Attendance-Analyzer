@@ -1,3 +1,4 @@
+import os
 def calc(row, date_columns):
     present = 0
     absent = 0
